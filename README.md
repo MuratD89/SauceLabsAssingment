@@ -1,4 +1,4 @@
-#### Software  Tester Assignment: Hi! I'm Mami! I am a QA Automation Test Engineer👋 ####
+#### Software  Tester Assignment: Hi! I'm Murat! I am a QA Automation Test Engineer👋 ####
 
 #### Setting up the project requirements: ####
 ``` bash
@@ -62,7 +62,7 @@ Cucumber test report will be available after the test execution. The report can 
 
 ### Feedback: 🙂 ###
 ``` bash
-- If you have any feedback, please reach out to me --> muhammedzahidakcal@gmail.com 
+- If you have any feedback, please reach out to me --> muratdlgr@gmail.com 
 ```
 
 
